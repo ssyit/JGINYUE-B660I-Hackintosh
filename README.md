@@ -52,4 +52,5 @@ VERSION 1203：存在睡眠唤醒问题
 
 <img width="899" alt="Snipaste_2022-12-15_00-16-54" src="https://user-images.githubusercontent.com/12815495/207650143-ae50a405-2e44-4c58-85bb-2731d7100af2.png">
 
-<img width="903" alt="Snipaste_2022-12-15_00-07-11" src="https://user-images.githubusercontent.com/12815495/207650159-c209a50c-876c-45fb-8ee1-65833e3eaced.png">
+<img width="901" alt="Snipaste_2022-12-15_00-20-15" src="https://user-images.githubusercontent.com/12815495/207650578-e61d4a23-a26a-442a-9860-35df007dfe72.png">
+
