@@ -40,7 +40,7 @@ VERSION 1203：存在睡眠唤醒问题
 
 所以目前这个主板想要正常睡眠，就不能上13代CPU
 
-### 部分功能截图:
+### 部分界面截图:
 
 <img width="278" alt="Snipaste_2022-12-15_00-03-47" src="https://user-images.githubusercontent.com/12815495/207648804-4d2d32b9-c824-45c6-931e-923bc835993a.png">
 
