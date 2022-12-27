@@ -32,15 +32,15 @@ CPU:i5-12400
 ### BIOS VERSION：1108
 精粤这个主板BIOS免设置都能进系统，很好黑。但每一版BIOS在黑苹果上都有小问题，有点恶心。
 
-VERSION 1108：DMI INFO错误导致没有节能五项,需要补丁
+VERSION 1108：DMI INFO错误导致会被OS识别为macbook机型,需要打补丁
 
-VERSION 1115：存在睡眠秒醒问题
+VERSION 1115：睡眠秒醒
 
-VERSION 1203：存在睡眠秒醒问题
+VERSION 1203：睡眠秒醒
 
-VERSION 1223：存在睡眠秒醒问题
+VERSION 1223：睡眠秒醒
 
-综上，不推荐任何13代CPU使用精粤主板。
+不推荐任何13代CPU使用精粤主板。
 
 ### 部分界面截图:
 
