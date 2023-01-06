@@ -25,22 +25,13 @@ CPU:i5-12400
 
 * 睡眠与唤醒正常，支持开机键及键盘鼠标唤醒
 
-### OPENCORE VERSION:0.8.6
+### OC版本:0.8.6
 
-### MACOS VERSION:Ventura 13.1
+### MACOS版本:Ventura 13.1
 
-### BIOS VERSION：1108
-精粤这个主板BIOS免设置都能进系统，很好黑。但每一版BIOS在黑苹果上都有小问题，有点恶心。
+### BIOS版本：007（日期:1108)
 
-VERSION 1108：DMI INFO错误导致会被OS识别为macbook机型,需要打补丁
-
-VERSION 1115：睡眠秒醒
-
-VERSION 1203：睡眠秒醒
-
-VERSION 1223：睡眠秒醒
-
-不推荐任何13代CPU使用精粤主板。
+已出，BIOS稀烂，不推荐任何13代CPU使用精粤主板，必存在睡眠秒醒问题。
 
 ### 部分界面截图:
 
